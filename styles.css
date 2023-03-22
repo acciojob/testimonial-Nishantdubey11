@@ -1,15 +1,16 @@
 /*  your css code here. If applicable */
 .main{
-	backgroung-colour: #f5f5f5;
+	background-color: #f5f5f5;
 	padding :20px;
 }
 
 .testimonal{
+
 	margin: 10px;
 	padding: 8px;
 	font-size: 10px;
 	justify-content: space-between;
-	background-colour: white;
+	background-color: white;
 }
 
 .sign{
